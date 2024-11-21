@@ -1,5 +1,10 @@
+import { ReactNode } from "react"
+
+interface ButtonProps{
+    children: ReactNode
+};
 export const Button = () => {
     return (
-        <button>Button</button>
+        <button>Gabriel</button>
     )
-}
+};

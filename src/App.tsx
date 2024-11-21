@@ -1,7 +1,5 @@
 export function App () {
   return (
-    <div>
-      Comecando com os testes
-    </div>
+    <h1>Comecando</h1>
   )
 }
